@@ -1,3 +1,8 @@
 # Environments
 .venv/
 .env
+
+# Python bytecoe/cache
+__pycache__/
+*.pyc
+*.pyo
